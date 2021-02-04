@@ -54,6 +54,7 @@
         "secondary": "#bbdefb",
         "mainBg": "#213f4e",
         "contrastText": "#FFFFFF",
+        "invertContrastText": "#000000",
         "wrong": "#FF5722",
         "success": "#4CAF50"
       },
